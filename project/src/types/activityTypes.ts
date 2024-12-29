@@ -1,0 +1,1 @@
+export type ActivityLevel = 'inactive' | 'low' | 'moderate' | 'high';
